@@ -1,3 +1,9 @@
+"""
+Created on Tue Jan 31 22:43:04 2017
+
+@author: Akshay Mehra (mehra.42@osu.edu)
+"""
+
 Below are the outputs of my program for value of information gain set to 1.0, 0.1 and 0. Each line of output is described as 
 FeatureVal(best feature to split on)	nPosNeg     Gain
 
